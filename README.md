@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.kym-cdn.com/photos/images/original/001/980/676/a7c.jpg"/>
+  <img src="https://i.kym-cdn.com/photos/images/original/001/980/676/a7c.jpg" width="600" height="300"/>
 </div>
 
 # 💫 About Me:
