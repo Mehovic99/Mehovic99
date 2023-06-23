@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working @HulkApps as a Junior PHP Developer<br>🌱 I’m currently learning AWS Fundamentals and Google Cloud Fundamentals<br>💬 Ask me about anything. I am sure of my knowledge and will try and answer any question<br>⚡ Fun fact: I love practicing martial arts and I love gaming
+🔭 I’m currently working @HulkAppsBiH as a Junior PHP Developer<br>🌱 I’m currently learning AWS Fundamentals and Google Cloud Fundamentals<br>💬 Ask me about anything. I am sure of my knowledge and will try and answer any question<br>⚡ Fun fact: I love practicing martial arts and I love gaming
 
 
 ## 🌐 Socials:
