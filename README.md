@@ -2,7 +2,7 @@
   <img src="https://i.kym-cdn.com/photos/images/original/001/980/676/a7c.jpg" width="600" height="400"/>
 </div>
 
-# 💫 About M:
+# 💫 About Me:
 🔭 I’m currently working @HulkAppsBiH as a Junior PHP Developer<br>🌱 I’m currently learning AWS Fundamentals and Google Cloud Fundamentals<br>💬 Ask me about anything. I am sure of my knowledge and will try and answer any question<br>⚡ Fun fact: I love practicing martial arts and I love gaming
 
 
